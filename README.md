@@ -9,10 +9,13 @@
 
 ### Portfolio
 
-> [LAYANAN BKPSDM KAB. BATU BARA](https://play.google.com/store/apps/details?id=com.batubara.absensi_app) 
+> [LAYANAN BKPSDM KAB. BATU BARA](https://play.google.com/store/apps/details?id=com.batubara.absensi_app)
+
+> [Liputan Gampong News](https://play.google.com/store/apps/details?id=com.liputan_gampong_news.app)
+
 > [Unimed Library System](https://play.google.com/store/apps/details?id=com.unimed.library_app)
 
-![Patarchims's github stats](https://github-readme-stats.vercel.app/api?username=patarchims&show_icons=true&theme=dracula&hide=stars,issues)
+![Patarchims github stats](https://github-readme-stats.vercel.app/api?username=patarchims&show_icons=true&theme=dracula&hide=stars,issues)
 
 
 
