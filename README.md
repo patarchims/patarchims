@@ -3,6 +3,18 @@
 ### Tech Stack
 
 - 🛠 Lang & Framework: Dart, Flutter
+- ⛏ Interest: Mobile Development
+
+
+
+### Portfolio
+
+> [LAYANAN BKPSDM KAB. BATU BARA](https://play.google.com/store/apps/details?id=com.batubara.absensi_app) 
+> [Unimed Library System](https://play.google.com/store/apps/details?id=com.unimed.library_app)
+
+![Patarchims's github stats](https://github-readme-stats.vercel.app/api?username=patarchims&show_icons=true&theme=dracula&hide=stars,issues)
+
+
 
 <!--
 **patarchims/patarchims** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
