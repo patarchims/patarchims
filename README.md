@@ -9,7 +9,7 @@
 
 <h3 align="left">Portofolio:</h3>
 
-> [LAYANAN BKPSDM KAB. BATU BARA](https://play.google.com/store/apps/details?id=com.batubara.absensi_app)
+> [LAYANAN BKPSDM KAB. BATU BARA](https://play.google.com/store/apps/details?id=com.indosistem.absensi_batubara)
 
 > [Liputan Gampong News](https://play.google.com/store/apps/details?id=com.liputan_gampong_news.app)
 
